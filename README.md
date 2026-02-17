@@ -1,7 +1,5 @@
 # Bee Detection
 
-Simple project to detect bees in images.
-
 ## What’s Inside
 
 - `detect.py` — code for detection  
